@@ -807,17 +807,15 @@ input{
 
 .sc{
     display:flex;
-    gap:20px;   
-    
+    gap:20px;      
+    font-size:25px;
 }
 .sc img{
     width: 40px;
     height: 40px;
     margin-top:13px;
 }
-.sc p{
-    font-size:25px;
-}
+
 
 .a1{
  
