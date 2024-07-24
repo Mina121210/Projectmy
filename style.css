@@ -1174,7 +1174,7 @@ border-radius: 100%;
      color: white;
  }
 
-.zz {
+.z {
 
         background: orange;
         padding: 30px;
@@ -1195,6 +1195,9 @@ border-radius: 100%;
     
     .menu-icon {
         display: block;
+        font-size: 50px;
+    cursor: pointer;
+    color: white;
     }
     
     .menu li {
