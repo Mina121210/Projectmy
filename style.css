@@ -640,10 +640,10 @@ color: orange;font-size: 25px;
 
 .form{
        
-    background:black;    
+        
     gap:10px;                     
     width:92%;   
-
+background: brown;
     padding: 30px;
 
                                                                  
@@ -652,22 +652,17 @@ color: orange;font-size: 25px;
 
 
 
-input:focus {
-  outline: none;
-  
-}
-
-
-
 
 .form h1{
     text-align:center;
+    font-size:30px;
+    padding-bottom:30px;
 }
 
 
 input::placeholder {
     color: white;
-    font-size:23px;
+    font-size:27px;
     font-style: italic;
     line-height: 1.5;
 
@@ -684,7 +679,7 @@ input{
             
     
     height: 40px;
-    padding: 10px;
+    padding: 15px;
     background: black;
     border:none;
     border-bottom:solid;
@@ -715,15 +710,15 @@ input{
 .send{
     
     border-radius: 5px;
-    background: brown;
-    padding: 16px;
+    background: orange;
+    padding: 20px;
     width: 55px;
     margin-top:40px; 
     margin-left:20px;
     margin-bottom:20px;
     border: solid;
     border-color: brown;
-    font-size: 25px;
+    font-size: 27px;
     
 }
 
@@ -736,7 +731,7 @@ input{
     
     border-radius: 5px;
     background: transparent;
-    padding: 16px;
+    padding: 20px;
     width: 55px;
     margin-top:40px; 
     border: solid;
