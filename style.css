@@ -1280,29 +1280,6 @@ border-radius: 100%;
 
 
 
- @media (min-width: 768px) {
-    .menu {
-        display: none;
-        flex-direction: column;
-        width: 100%;
-        padding-top: 10PX;
-    }
-    
-    .menu-icon {
-        display: block;
-    }
-    
-    .menu li {
-        border-bottom-style: solid;
-        border-bottom-color: grey;
-        margin-left: 0;
-        text-align: center;
-        padding: 10px 0;
-        padding-top: 10PX;
-    }
-
-
-
     .end p{
         color:white;
         font-weight: bolder;
