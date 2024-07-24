@@ -1079,16 +1079,7 @@ padding-left: 0px;
 
      }
      
-     
-     
- 
- .z {  
-        background: orange;
-        padding: 25px;
-        font-size: 27px;
-        color: black;
-     }
- 
+    
  
  
  
@@ -1146,43 +1137,13 @@ padding-left: 0px;
     font-size:17px;
  
 }
-
-
-
-
-
-
- .zz {
-
-        background: white;
-        padding: 14px;
-        color: black;
-        font-size: 20px;
-        border-color: white;
-
-     }
-
-
-
-
-
-     .zz:hover {
-
-        background: orange;
-        padding: 14px;
-        font-size: 20px;
-        color: white;                
-
-     }
- 
- 
  
  
  
  .z {  
         background: orange;
-        padding: 9px;
-        font-size: 15px;
+        padding: 15px;
+        font-size: 17px;
         color:white;
         border-color: orange;
  }
