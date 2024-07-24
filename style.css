@@ -77,8 +77,8 @@ padding: 15px;
 
 .on .sp{
 
-color: orange;font-size: 25px;
-
+color: orange;
+font-size: 50px;
 }
 
 
@@ -811,7 +811,7 @@ input{
 .sc img{
     width: 50px;
     height: 50px;
-    margin-top:25px;
+    margin-top:27px;
 }
 
 
