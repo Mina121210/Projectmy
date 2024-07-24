@@ -212,8 +212,8 @@ color: orange;font-size: 25px;
          display: flex;            
          margin-bottom:10px;
          background:brown;
-        margin-left:20px;
-        margin-right:20px;
+        margin-left:50px;
+        margin-right:50px;
     
         }
 
@@ -434,13 +434,15 @@ color: orange;font-size: 25px;
 
 .dd{
 
-     padding: 30px;
+   padding: 30px;
    background: brown;
    display:flex;
    gap:30px;
    justify-content: center;
    align-items: center;
-    
+    margin-left:50px;
+    margin-right:50px;
+
 }
 
 
