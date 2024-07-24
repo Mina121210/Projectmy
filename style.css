@@ -1005,7 +1005,7 @@ padding-left: 0px;
         background: transparent;
         padding: 30px;
         color: white;
-        font-size: 22px;
+        font-size: 26px;
         border-color: white;
 
      }
@@ -1017,8 +1017,8 @@ padding-left: 0px;
      .zz:hover {
 
         background: orange;
-        padding: 3px;
-        font-size: 22px;
+        padding: 30px;
+        font-size: 26px;
         color: black;
         border-color: white;
 
@@ -1138,7 +1138,7 @@ border-radius: 100%;
 
 .menu-icon {
     display: none;
-    font-size: 50px;
+    font-size: 20px;
     cursor: pointer;
     color: white;
 }
@@ -1177,35 +1177,7 @@ border-radius: 100%;
 
 
 
-    .end p{
-        color:white;
-        font-weight: bolder;
-        font-size:14px;
-       
-    }
-    
-.z {  
-        background: orange;
-        padding: 30px;
-        font-size: 22px;
-        color:white;
-        border-color: orange;
- }
-
-
-    .x h1{
-        font-size:40px;
-    
-    }
-    
-    .x p{
-        font-size:20px;
-     
-    }
-    
-    
-
- @media (max-width: 768px) {
+ @media (min-width: 768px) {
     .menu {
         display: none;
         flex-direction: column;
@@ -1215,9 +1187,6 @@ border-radius: 100%;
     
     .menu-icon {
         display: block;
-        font-size: 50px;
-    cursor: pointer;
-    color: white;
     }
     
     .menu li {
@@ -1234,7 +1203,23 @@ border-radius: 100%;
     .end p{
         color:white;
         font-weight: bolder;
-        font-size:14px;       
+        font-size:14px;
+       
     }
- }
     
+
+
+    .x h1{
+        font-size:30px;
+    
+    }
+    
+    .x p{
+        font-size:15px;
+     
+    }
+    
+    
+
+
+}
