@@ -1123,7 +1123,7 @@ padding-left: 0px;
  
  .box h3{
      
-     font-size:45px;
+     font-size:60px;
      line-height: 30px;
                  
  }
@@ -1155,9 +1155,9 @@ padding-left: 0px;
  .zz {
 
         background: white;
-        padding: 9px;
+        padding: 14px;
         color: black;
-        font-size: 15px;
+        font-size: 20px;
         border-color: white;
 
      }
@@ -1169,8 +1169,8 @@ padding-left: 0px;
      .zz:hover {
 
         background: orange;
-        padding: 9px;
-        font-size: 15px;
+        padding: 14px;
+        font-size: 20px;
         color: white;                
 
      }
@@ -1301,7 +1301,7 @@ border-radius: 100%;
     
     
 
- @media (min-width: 768px) {
+ @media (max-width: 768px) {
     .menu {
         display: none;
         flex-direction: column;
