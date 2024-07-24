@@ -1003,9 +1003,9 @@ padding-left: 0px;
     .zz {
 
         background: transparent;
-        padding: 15px;
+        padding: 22px;
         color: white;
-        font-size: 17px;
+        font-size: 22px;
         border-color: white;
 
      }
@@ -1017,8 +1017,8 @@ padding-left: 0px;
      .zz:hover {
 
         background: orange;
-        padding: 15px;
-        font-size: 17px;
+        padding: 22px;
+        font-size: 22px;
         color: black;
         border-color: white;
 
@@ -1186,8 +1186,8 @@ border-radius: 100%;
     
 .z {  
         background: orange;
-        padding: 15px;
-        font-size: 17px;
+        padding: 22px;
+        font-size: 22px;
         color:white;
         border-color: orange;
  }
