@@ -709,7 +709,7 @@ input{
 .send{
     
     border-radius: 5px;
-    background: orange;
+    background: brown;
     padding: 20px;
     width: 55px;
     margin-top:40px; 
@@ -718,6 +718,7 @@ input{
     border: solid;
     border-color: brown;
     font-size: 27px;
+    color:white;
     
 }
 
@@ -735,6 +736,7 @@ input{
     margin-top:40px; 
     border: solid;
     border-color: white;
+   color: white;
     
 }
 
