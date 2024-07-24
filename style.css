@@ -79,11 +79,7 @@ header {
         flex-direction: column;
         width: 100%;
     }
-    
-    .menu-icon {
-        display: block;
-    }
-    
+
     .menu li {
         margin-left: 0;
         text-align: center;
@@ -1105,7 +1101,7 @@ padding-left: 0px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 1000px;     
+    height: 1500px;     
   display: flex;
   justify-content: center;
   align-items: center;
