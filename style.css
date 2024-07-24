@@ -783,13 +783,11 @@ input{
 
 .b1{
     display:flex;
-    gap:30px;
+    gap:20px;
+    font-size:25px;
 }
 
 
-.b1 p{
-    font-size:7px
-}
 
 
 
