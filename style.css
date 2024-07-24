@@ -53,7 +53,7 @@ header {
 
 .menu-icon {
     display: none;
-    font-size: 20px;
+    font-size: 50px;
     cursor: pointer;
 }
 
@@ -89,6 +89,11 @@ header {
         text-align: center;
         padding: 10px 0;
     }
+}
+
+.logo h1{
+   font-size:50px;
+    
 }
 
 
