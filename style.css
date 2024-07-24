@@ -793,7 +793,7 @@ input{
 
 
 .bl p{
-    font-size:20px
+    font-size:10px
 }
 
 
@@ -821,7 +821,7 @@ input{
     margin-top:13px;
 }
 .sc p{
-    font-size:20px;
+    font-size:10px;
 }
 
 .a1{
@@ -833,7 +833,7 @@ input{
 
 
 .a1 p{
-    font-size:20px;
+    font-size:10px;
 }
 
 
@@ -866,7 +866,7 @@ padding-left: 0px;
 }
 
 .wq .li{
-    font-size:20px;
+    font-size:10px;
     padding: 7px;
 }
 
