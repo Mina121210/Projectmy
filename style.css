@@ -1016,7 +1016,7 @@ padding-left: 0px;
 
      .zz:hover {
 
-        background: orange;
+        background: transparent;
         padding: 30px;
         font-size: 26px;
         color: black;
@@ -1176,11 +1176,11 @@ border-radius: 100%;
 
 .z {
 
-        background: orange;
+        background: transparent;
         padding: 30px;
         color: white;
         font-size: 26px;
-        border-color: orange;
+        border-color: white;
 
      }
 
