@@ -824,6 +824,7 @@ input{
     padding: 30px;
     position: relative;
     right: 60px;
+    width: 100%;
 }
 
 
@@ -837,6 +838,7 @@ input{
     padding: 30px;
     position: relative;
     right: 60px;
+    width: 100%;
 }
 
 .a2 h1{
@@ -851,6 +853,7 @@ padding-left: 0px;
     text-align:left;
     position: relative;
     right: 60px;
+    width: 100%;
 }
 
 .wq h1{
@@ -866,7 +869,7 @@ padding-left: 0px;
 }
 
 .wqq{
-
+    width: 100%;
    text-align: left;
     padding: 30px;
     position: relative;
