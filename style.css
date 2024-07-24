@@ -644,7 +644,8 @@ font-size: 50px;
     gap:10px;                     
     width:92%;   
 padding: 30px;
-
+background:black;
+    border-color:white;
                                                         
 }
 
