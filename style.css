@@ -69,7 +69,7 @@ padding: 15px;
 
 .on h1 {    
     color: white;
-    font-size:30px;  
+    font-size:33px;  
     padding-bottom:20px;
 }  
 
@@ -806,7 +806,7 @@ input{
 .sc{
     display:flex;
     gap:20px;      
-    font-size:25px;
+    font-size:30px;
 }
 .sc img{
     width: 40px;
