@@ -41,61 +41,6 @@ padding: 15px;
 }
 
 
-
-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: #000;
-    padding: 10px 20px;
-    color: #fff;
-}
-
-.menu-icon {
-    display: none;
-    font-size: 200px;
-    cursor: pointer;
-}
-
-.menu {
-    list-style: none;
-    display: flex;
-    margin: 0;
-    padding: 0;
-}
-
-.menu li {
-    margin-left: 20px;
-}
-
-.menu a {
-    text-decoration: none;
-    color:white;
-}
-
-@media (max-width: 768px) {
-    .menu {
-        display: none;
-        flex-direction: column;
-        width: 100%;
-    }
-
-    .menu li {
-        margin-left: 0;
-        text-align: center;
-        padding: 10px 0;
-    }
-}
-
-.logo h1{
-   font-size:50px;
-    
-}
-
-
-
-
-
 .POP {
     
     display:block;
@@ -1139,15 +1084,6 @@ padding-left: 0px;
 }
  
  
- 
- .z {  
-        background: orange;
-        padding: 15px;
-        font-size: 17px;
-        color:white;
-        border-color: orange;
- }
-
 
 .cona img{
 
@@ -1248,6 +1184,13 @@ border-radius: 100%;
        
     }
     
+.z {  
+        background: orange;
+        padding: 15px;
+        font-size: 17px;
+        color:white;
+        border-color: orange;
+ }
 
 
     .x h1{
