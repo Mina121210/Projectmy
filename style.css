@@ -1138,7 +1138,7 @@ border-radius: 100%;
 
 .menu-icon {
     display: none;
-    font-size: 100px;
+    font-size: 70px;
     cursor: pointer;
     color: white;
 }
@@ -1195,7 +1195,7 @@ border-radius: 100%;
     
     .menu-icon {
         display: block;
-        font-size: 100px;
+        font-size: 70px;
     cursor: pointer;
     color: white;
     }
