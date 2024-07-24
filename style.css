@@ -69,7 +69,8 @@ padding: 15px;
 
 .on h1 {    
     color: white;
-    font-size:20px;        
+    font-size:20px;  
+    padding-bottom:20px;
 }  
 
 
@@ -1138,7 +1139,7 @@ border-radius: 100%;
 
 .menu-icon {
     display: none;
-    font-size: 70px;
+    font-size: 50px;
     cursor: pointer;
     color: white;
 }
@@ -1196,7 +1197,7 @@ border-radius: 100%;
     
     .menu-icon {
         display: block;
-        font-size: 70px;
+        font-size: 50px;
     cursor: pointer;
     color: white;
     }
@@ -1239,5 +1240,5 @@ border-radius: 100%;
 
 
 .logo h1{
-    font-size:70px;
+    font-size:50px;
 }
