@@ -1174,7 +1174,15 @@ border-radius: 100%;
      color: white;
  }
 
+.zz {
 
+        background: orange;
+        padding: 30px;
+        color: white;
+        font-size: 26px;
+        border-color: orange;
+
+     }
 
 
  @media (min-width: 768px) {
