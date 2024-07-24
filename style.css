@@ -1241,7 +1241,7 @@ border-radius: 100%;
 
 .menu-icon {
     display: none;
-    font-size: 20px;
+    font-size: 50px;
     cursor: pointer;
     color: white;
 }
@@ -1313,12 +1313,12 @@ border-radius: 100%;
 
 
     .x h1{
-        font-size:30px;
+        font-size:40px;
     
     }
     
     .x p{
-        font-size:15px;
+        font-size:20px;
      
     }
     
